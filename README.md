@@ -304,5 +304,10 @@ Bug tracking will be managed using GitHub workflow:
 This ensures accountability, visibility, and continuous quality improvement.   
  
 --- 
+Individual Contribution (Jeff Frates – Programmer)
+
+I contributed to the QA and testing plan by defining how core gameplay systems such as player movement, enemy behavior, combat, and pickups will be tested throughout development. I helped design the testing checklist, bug reporting process using GitHub Issues, and the overall QA workflow aligned with Alpha and Beta milestones.
+
+I also participated in team discussions to ensure gameplay systems are properly integrated with UI and level design, supporting effective testing and overall game functionality.
 
 
