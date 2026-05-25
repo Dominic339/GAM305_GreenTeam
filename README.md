@@ -217,7 +217,7 @@ Core Gameplay
 - Camera follow the player properly 
 - Player can aim and attack as intended 
 - Collision system works properly   
--  Health system operates correctly   
+- Health system operates correctly   
  
  Enemies 
 - Moving enemies patrol correctly   
@@ -260,7 +260,7 @@ Performance
 - Game runs without crashing   
 - No major lag or performance issues   
  
-UI 
+Full Build 
 - Build can be played from start to finish 
 - Required elements are included 
 - Game is functional with placeholder assets 
@@ -310,4 +310,9 @@ I contributed to the QA and testing plan by defining how core gameplay systems s
 
 I also participated in team discussions to ensure gameplay systems are properly integrated with UI and level design, supporting effective testing and overall game functionality.
 
+
+---
+Individual Contribution (Dominic Collins, Lead/World Builder)
+
+I contributed by outlining the goals of each phase and submission going forward as well as contributing to the testing checklist. I also worked to outline the specific lines of communication and cooperation that would be needed for future milestones as the team's work begins to affect each other.
 
