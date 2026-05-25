@@ -235,11 +235,22 @@ UI
 - Ammo indicator or gameplay information displays correctly 
 - Crosshair or aiming indicator appears correctly 
 - Minimap or map indicator is readable if implemented 
-- UI updates when player health, ammo, or power-up status changes 
+- UI updates when player health, ammo, or power-up status changes
+
+Matthew Clem – Artist/UI Contribution
+Created a basic placeholder HUD prototype in Unreal Engine
+Added placeholder UI elements, including:
+Health bar
+Ammo display
+Crosshair
+Minimap placeholder
+Tested UI layout placement and readability during gameplay
+Worked on visual atmosphere and environment direction using a dark sci-fi space/black hole themed background
+Helped establish the dark and muted visual style planned for the game
+Contributed to placeholder asset and UI planning for Alpha testing
  
  
- 
-Game Features 
+ Game Features 
 - Power-ups activate correctly   
 - UI displays health and score accurately   
 - Visuals and sound are consistent   
