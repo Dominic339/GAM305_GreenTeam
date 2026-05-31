@@ -305,6 +305,7 @@ This ensures accountability, visibility, and continuous quality improvement. 
 
 ---
 Module Four Project Log - Team Reflection
+
 During the Alpha testing process, our team felt that communication worked well. We were able to use Discord to share updates, discuss problems, and help each other when issues came up. Playtesting the game also helped us find bugs and see what parts of the game still needed improvement.
 
 Most bugs were found by testing the game and checking different gameplay features. Once a bug was found, team members discussed it through Discord and worked on fixing it. After the fixes were made, the features were tested again to make sure everything was working properly.
