@@ -316,3 +316,14 @@ Individual Contribution (Dominic Collins, Lead/World Builder)
 
 I contributed by outlining the goals of each phase and submission going forward as well as contributing to the testing checklist. I also worked to outline the specific lines of communication and cooperation that would be needed for future milestones as the team's work begins to affect each other.
 
+Module Four Project Log - Team Reflection
+
+
+
+
+Individual Contribution (Jeff - Programmer)
+
+As the programmer for Team Green, I developed the core gameplay systems required for the Alpha build, including player movement, enemy AI (moving enemies and turrets), projectiles, and a health pickup system. These features created a functional prototype that could be tested by the team.
+I also contributed to the QA process by organizing testing into objects, levels, and systems, and supporting a pass/fail checklist to ensure features were testable during Alpha. I worked closely with the UI/UX and level design team to integrate systems, making data such as health and ammo accessible for UI display and ensuring gameplay systems functioned correctly within the test environment.
+Additionally, I followed GitHub workflow practices by working in my own branch, submitting pull requests, and supporting bug tracking using GitHub Issues. Overall, my contribution focused on building the core systems while supporting testing, integration, and collaboration to ensure a stable Alpha build.
+
