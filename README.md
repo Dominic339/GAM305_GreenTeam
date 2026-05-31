@@ -327,3 +327,11 @@ As the programmer for Team Green, I developed the core gameplay systems required
 I also contributed to the QA process by organizing testing into objects, levels, and systems, and supporting a pass/fail checklist to ensure features were testable during Alpha. I worked closely with the UI/UX and level design team to integrate systems, making data such as health and ammo accessible for UI display and ensuring gameplay systems functioned correctly within the test environment.
 Additionally, I followed GitHub workflow practices by working in my own branch, submitting pull requests, and supporting bug tracking using GitHub Issues. Overall, my contribution focused on building the core systems while supporting testing, integration, and collaboration to ensure a stable Alpha build.
 
+
+
+**Individual Contribution (Matthew Clem - Artist)**
+
+As the artist for Team Green, I contributed to the Alpha build by improving the visual presentation of the level. I updated the materials on the walls and other environment assets to better match the game's sci-fi theme and make the level feel more complete. I also added lighting throughout key areas of the map, including rooms and stairways, to improve visibility and help guide players through the environment.
+
+After making these visual updates, I tested the level to make sure the lighting and materials worked properly within the existing map layout. These changes helped improve the overall atmosphere and presentation of the Alpha build while maintaining the functionality of the level.
+
