@@ -346,5 +346,8 @@ After making these visual updates, I tested the level to make sure the lighting 
 
 As one of the world builders for the team, I worked on the main environmental landscape, atmosphere and overall aesthetic for the level. I implemented various objects that when tied together bring about a very striking and eerie theme.
 
+**Individual Contribution (Dalton Daugherty - UI/UX)**
+
+As the lead over the UI/UX, I implemented a health bar, ammo bar, crosshair, and a minimap so that they appear on the screen. I will continue to tweak them to suit the game as it is intended among the team.
 ---
 
