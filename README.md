@@ -324,7 +324,7 @@ I also participated in team discussions to ensure gameplay systems are properly 
 ---
 Individual Contribution (Dominic Collins, Lead/World Builder)
 
-I contributed by outlining the goals of each phase and submission going forward as well as contributing to the testing checklist. I also worked to outline the specific lines of communication and cooperation that would be needed for future milestones as the team's work begins to affect each other.
+I contributed by creating basic structures for the first test level of the game, as well as creating a customized pathing zone and layout to match with our other world builder's terrain work. I also began working on modular segments to be used for building creation later on in the more polished levels. I also worked on interactable crates for the player to use as cover as well as something to interact with throughout the levels.
 
 ---
 Individual Contribution (Jeff - Programmer)
