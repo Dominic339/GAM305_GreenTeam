@@ -342,3 +342,9 @@ After making these visual updates, I tested the level to make sure the lighting 
 
 ---
 
+**Individual Contribution (Nathan Lively - World Builder)**
+
+As one of the world builders for the team, I worked on the main environmental landscape, atmosphere and overall aesthetic for the level. I implemented various objects that when tied together bring about a very striking and eerie theme.
+
+---
+
