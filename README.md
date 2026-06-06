@@ -314,12 +314,6 @@ If we could improve the QA and testing process, I think we would start testing e
 
 Our game design document helped the team decide what tools and techniques to use because it gave us a clear idea of what kind of game we wanted to create. Having a plan from the beginning made it easier to organize tasks, communicate with each other, and stay focused on the goals for the Alpha build.
 
---- 
-Individual Contribution (Jeff Frates – Programmer)
-
-I contributed to the QA and testing plan by defining how core gameplay systems such as player movement, enemy behavior, combat, and pickups will be tested throughout development. I helped design the testing checklist, bug reporting process using GitHub Issues, and the overall QA workflow aligned with Alpha and Beta milestones.
-
-I also participated in team discussions to ensure gameplay systems are properly integrated with UI and level design, supporting effective testing and overall game functionality.
 
 ---
 Individual Contribution (Dominic Collins, Lead/World Builder)
@@ -340,5 +334,14 @@ As the artist for Team Green, I contributed to the Alpha build by improving the 
 
 After making these visual updates, I tested the level to make sure the lighting and materials worked properly within the existing map layout. These changes helped improve the overall atmosphere and presentation of the Alpha build while maintaining the functionality of the level.
 
+---
+
+**Individual Contribution (Nathan Lively - World Builder)**
+
+As one of the world builders for the team, I worked on the main environmental landscape, atmosphere and overall aesthetic for the level. I implemented various objects that when tied together bring about a very striking and eerie theme.
+
+**Individual Contribution (Dalton Daugherty - UI/UX)**
+
+As the lead over the UI/UX, I implemented a health bar, ammo bar, crosshair, and a minimap so that they appear on the screen. I will continue to tweak them to suit the game as it is intended among the team.
 ---
 
