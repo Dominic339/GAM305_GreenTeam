@@ -360,8 +360,13 @@ One technique that was less helpful during development was having multiple peopl
 At this point, the project has reached the Beta stage with the main gameplay systems and visual updates in place. Moving into Final Release, the team’s schedule should focus on testing, fixing bugs, improving visuals and gameplay polish, and combining final contributions into the Final_Beta branch during packaging and submission.
 
 ---
-Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
+
+Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall 
+system functionality.
+
 ---
+
 **Individual Contribution (Matthew Clem - Artist)**
 For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+
 ---
