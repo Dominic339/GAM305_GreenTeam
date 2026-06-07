@@ -345,3 +345,6 @@ As one of the world builders for the team, I worked on the main environmental la
 As the lead over the UI/UX, I implemented a health bar, ammo bar, crosshair, and a minimap so that they appear on the screen. I will continue to tweak them to suit the game as it is intended among the team.
 ---
 
+Module Five Project Log Team Reflection
+
+Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
