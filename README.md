@@ -382,3 +382,8 @@ Individual Contribution (Dalton Daugherty - UI/UX)
 Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one had buttons that correlated with where the player wanted to go, such as playing, seeing the credits that feature what each contributor did or if they wanted to quit the game. Late implementations on my end caused a setback for the overall programming for the win/game over aspects to be finished, so blame is taken there, and will be improved on going forward. Going to continue to work on these aspects and work alongside the programmer to ensure he can do everything he needs to do, as well as the team overall to ensure that my contributions are correct, and accurate in where they are needed.
 
 ---
+
+Individual Contribution (Dominic Collins – Team Lead / Level Designer)
+As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
+
+---
