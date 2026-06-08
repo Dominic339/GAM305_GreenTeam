@@ -368,7 +368,10 @@ system functionality.
 
 Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
 
+---
+
 Individual Contribution (Nathan Lively - World Builder) Organized outliner into folders for easier usage. Implemented new meshes, textures and objects for the landscape. Implemented material for landscape. Fine tuned placement of world objects and painted landscape with new meshes. I worked within GitHub branches, submitted pull requests, and coordinated with team members to ensure the correct things where being worked on for this week.
+
 ---
 
 **Individual Contribution (Matthew Clem - Artist)**
