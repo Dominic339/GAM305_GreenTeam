@@ -368,8 +368,22 @@ system functionality.
 
 Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
 
+---
+
 Individual Contribution (Nathan Lively - World Builder) Organized outliner into folders for easier usage. Implemented new meshes, textures and objects for the landscape. Implemented material for landscape. Fine tuned placement of world objects and painted landscape with new meshes. I worked within GitHub branches, submitted pull requests, and coordinated with team members to ensure the correct things where being worked on for this week.
+
+---
+
 **Individual Contribution (Matthew Clem - Artist)**
 For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+---
+
+Individual Contribution (Dalton Daugherty - UI/UX)
+Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one had buttons that correlated with where the player wanted to go, such as playing, seeing the credits that feature what each contributor did or if they wanted to quit the game. Late implementations on my end caused a setback for the overall programming for the win/game over aspects to be finished, so blame is taken there, and will be improved on going forward. Going to continue to work on these aspects and work alongside the programmer to ensure he can do everything he needs to do, as well as the team overall to ensure that my contributions are correct, and accurate in where they are needed.
+
+---
+
+Individual Contribution (Dominic Collins – Team Lead / Level Designer)
+As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
 
 ---
