@@ -379,6 +379,6 @@ For this stage of development, most of my work focused on improving the overall 
 ---
 
 Individual Contribution (Dalton Daugherty - UI/UX)
-Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one had buttons that correlated with where the player wanted to go, such as playing, seeing the credits that feature what each contributor did or if they wanted to quit the game. Late improvements on my end caused a setback for the overall programming to be finished, so blame is taken there, and will be improved on going forward. Going to continue to work on these aspects and work alongside the team to ensure that my contributions are correct, and accurate in where they are needed.
+Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one had buttons that correlated with where the player wanted to go, such as playing, seeing the credits that feature what each contributor did or if they wanted to quit the game. Late implementations on my end caused a setback for the overall programming for the win/game over aspects to be finished, so blame is taken there, and will be improved on going forward. Going to continue to work on these aspects and work alongside the programmer to ensure he can do everything he needs to do, as well as the team overall to ensure that my contributions are correct, and accurate in where they are needed.
 
 ---
