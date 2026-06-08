@@ -302,17 +302,88 @@ Bug tracking will be managed using GitHub workflow:
 - Weekly review of outstanding bugs   
  
 This ensures accountability, visibility, and continuous quality improvement.   
- 
---- 
-Individual Contribution (Jeff Frates – Programmer)
 
-I contributed to the QA and testing plan by defining how core gameplay systems such as player movement, enemy behavior, combat, and pickups will be tested throughout development. I helped design the testing checklist, bug reporting process using GitHub Issues, and the overall QA workflow aligned with Alpha and Beta milestones.
+---
+Module Four Project Log - Team Reflection
 
-I also participated in team discussions to ensure gameplay systems are properly integrated with UI and level design, supporting effective testing and overall game functionality.
+During the Alpha testing process, our team felt that communication worked well. We were able to use Discord to share updates, discuss problems, and help each other when issues came up. Playtesting the game also helped us find bugs and see what parts of the game still needed improvement.
+
+Most bugs were found by testing the game and checking different gameplay features. Once a bug was found, team members discussed it through Discord and worked on fixing it. After the fixes were made, the features were tested again to make sure everything was working properly.
+
+If we could improve the QA and testing process, I think we would start testing earlier and do more testing throughout development. This would help us find issues sooner and make it easier to fix problems before deadlines. The tools that helped the most were Discord, GitHub, and Unreal Engine. Discord made communication easy, GitHub helped us share our work and keep track of changes, and Unreal Engine allowed us to build and test the game. One challenge we had was keeping track of different branches and project versions.
+
+Our game design document helped the team decide what tools and techniques to use because it gave us a clear idea of what kind of game we wanted to create. Having a plan from the beginning made it easier to organize tasks, communicate with each other, and stay focused on the goals for the Alpha build.
 
 
 ---
 Individual Contribution (Dominic Collins, Lead/World Builder)
 
-I contributed by outlining the goals of each phase and submission going forward as well as contributing to the testing checklist. I also worked to outline the specific lines of communication and cooperation that would be needed for future milestones as the team's work begins to affect each other.
+I contributed by creating basic structures for the first test level of the game, as well as creating a customized pathing zone and layout to match with our other world builder's terrain work. I also began working on modular segments to be used for building creation later on in the more polished levels. I also worked on interactable crates for the player to use as cover as well as something to interact with throughout the levels.
 
+---
+Individual Contribution (Jeff - Programmer)
+
+As the programmer for Team Green, I developed the core gameplay systems required for the Alpha build, including player movement, enemy AI (moving enemies and turrets), projectiles, and a health pickup system. These features created a functional prototype that could be tested by the team.
+I also contributed to the QA process by organizing testing into objects, levels, and systems, and supporting a pass/fail checklist to ensure features were testable during Alpha. I worked closely with the UI/UX and level design team to integrate systems, making data such as health and ammo accessible for UI display and ensuring gameplay systems functioned correctly within the test environment.
+Additionally, I followed GitHub workflow practices by working in my own branch, submitting pull requests, and supporting bug tracking using GitHub Issues. Overall, my contribution focused on building the core systems while supporting testing, integration, and collaboration to ensure a stable Alpha build.
+
+---
+**Individual Contribution (Matthew Clem - Artist)**
+
+As the artist for Team Green, I contributed to the Alpha build by improving the visual presentation of the level. I updated the materials on the walls and other environment assets to better match the game's sci-fi theme and make the level feel more complete. I also added lighting throughout key areas of the map, including rooms and stairways, to improve visibility and help guide players through the environment.
+
+After making these visual updates, I tested the level to make sure the lighting and materials worked properly within the existing map layout. These changes helped improve the overall atmosphere and presentation of the Alpha build while maintaining the functionality of the level.
+
+---
+
+**Individual Contribution (Nathan Lively - World Builder)**
+
+As one of the world builders for the team, I worked on the main environmental landscape, atmosphere and overall aesthetic for the level. I implemented various objects that when tied together bring about a very striking and eerie theme.
+
+**Individual Contribution (Dalton Daugherty - UI/UX)**
+
+As the lead over the UI/UX, I implemented a health bar, ammo bar, crosshair, and a minimap so that they appear on the screen. I will continue to tweak them to suit the game as it is intended among the team.
+---
+
+Module Five Project Log Team Reflection
+---
+From a technical and programming standpoint, our team continued making progress toward the goals we created in Module Three and moved closer to completing the Beta version of the game. Compared to the previous stage evaluation, one thing that went well was improving the overall functionality and appearance of the project. We made progress with gameplay features, environment updates, enemy development, UI improvements, and making the level feel more complete.
+
+One thing that did not go as planned was managing files and keeping work updated across branches and versions. At times, changes did not appear correctly or had to be recovered, which slowed development and created some confusion. Since multiple team members were working on shared files, merge conflicts and version management became one of the biggest challenges during this stage.
+
+We used feedback from previous evaluations by focusing more on making the game easier to understand and improving the overall player experience. We continued refining visuals, gameplay flow, and enemy presentation while also identifying areas that still need improvement before the final release.
+
+If we could improve the collaboration and development process, one thing we would do differently is create a more organized process for branch management and set more frequent checkpoints before merging changes. This would help reduce conflicts and make it easier to keep everyone’s work updated.
+
+One technique that was less helpful during development was having multiple people work on the same level files at the same time. While GitHub helped track changes overall, Unreal level files were more difficult to merge and sometimes caused delays when recovering or updating work.
+
+At this point, the project has reached the Beta stage with the main gameplay systems and visual updates in place. Moving into Final Release, the team’s schedule should focus on testing, fixing bugs, improving visuals and gameplay polish, and combining final contributions into the Final_Beta branch during packaging and submission.
+
+---
+
+Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall 
+system functionality.
+
+---
+
+Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
+
+---
+
+Individual Contribution (Nathan Lively - World Builder) Organized outliner into folders for easier usage. Implemented new meshes, textures and objects for the landscape. Implemented material for landscape. Fine tuned placement of world objects and painted landscape with new meshes. I worked within GitHub branches, submitted pull requests, and coordinated with team members to ensure the correct things where being worked on for this week.
+
+---
+
+**Individual Contribution (Matthew Clem - Artist)**
+For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+---
+
+Individual Contribution (Dalton Daugherty - UI/UX)
+Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one had buttons that correlated with where the player wanted to go, such as playing, seeing the credits that feature what each contributor did or if they wanted to quit the game. Late implementations on my end caused a setback for the overall programming for the win/game over aspects to be finished, so blame is taken there, and will be improved on going forward. Going to continue to work on these aspects and work alongside the programmer to ensure he can do everything he needs to do, as well as the team overall to ensure that my contributions are correct, and accurate in where they are needed.
+
+---
+
+Individual Contribution (Dominic Collins – Team Lead / Level Designer)
+As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
+
+---
