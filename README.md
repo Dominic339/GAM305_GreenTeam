@@ -346,7 +346,30 @@ As the lead over the UI/UX, I implemented a health bar, ammo bar, crosshair, and
 ---
 
 Module Five Project Log Team Reflection
+---
+From a technical and programming standpoint, our team continued making progress toward the goals we created in Module Three and moved closer to completing the Beta version of the game. Compared to the previous stage evaluation, one thing that went well was improving the overall functionality and appearance of the project. We made progress with gameplay features, environment updates, enemy development, UI improvements, and making the level feel more complete.
+
+One thing that did not go as planned was managing files and keeping work updated across branches and versions. At times, changes did not appear correctly or had to be recovered, which slowed development and created some confusion. Since multiple team members were working on shared files, merge conflicts and version management became one of the biggest challenges during this stage.
+
+We used feedback from previous evaluations by focusing more on making the game easier to understand and improving the overall player experience. We continued refining visuals, gameplay flow, and enemy presentation while also identifying areas that still need improvement before the final release.
+
+If we could improve the collaboration and development process, one thing we would do differently is create a more organized process for branch management and set more frequent checkpoints before merging changes. This would help reduce conflicts and make it easier to keep everyone’s work updated.
+
+One technique that was less helpful during development was having multiple people work on the same level files at the same time. While GitHub helped track changes overall, Unreal level files were more difficult to merge and sometimes caused delays when recovering or updating work.
+
+At this point, the project has reached the Beta stage with the main gameplay systems and visual updates in place. Moving into Final Release, the team’s schedule should focus on testing, fixing bugs, improving visuals and gameplay polish, and combining final contributions into the Final_Beta branch during packaging and submission.
+
+---
+
+Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall 
+system functionality.
+
+---
 
 Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
 
 Individual Contribution (Nathan Lively - World Builder) Organized outliner into folders for easier usage. Implemented new meshes, textures and objects for the landscape. Implemented material for landscape. Fine tuned placement of world objects and painted landscape with new meshes. I worked within GitHub branches, submitted pull requests, and coordinated with team members to ensure the correct things where being worked on for this week.
+**Individual Contribution (Matthew Clem - Artist)**
+For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+
+---
