@@ -361,11 +361,6 @@ At this point, the project has reached the Beta stage with the main gameplay sys
 
 ---
 
-Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall 
-system functionality.
-
----
-
 Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
 
 ---
