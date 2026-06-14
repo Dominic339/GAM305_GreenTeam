@@ -361,11 +361,6 @@ At this point, the project has reached the Beta stage with the main gameplay sys
 
 ---
 
-Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall 
-system functionality.
-
----
-
 Individual Contribution (Jeff Frates – Programmer) As the programmer for Team Green, I developed core gameplay systems including player movement, enemy AI (roaming enemies and turrets), projectiles, and the health system with pickups. I also supported system integration, ensuring gameplay data connected properly with UI elements such as health and ammo. Additionally, I contributed to QA testing by helping organize system-based testing and tracking bugs using GitHub Issues. I worked within GitHub branches, submitted pull requests, and collaborated with team members to debug issues and improve overall system functionality.
 
 ---
@@ -387,3 +382,9 @@ Individual Contribution (Dominic Collins – Team Lead / Level Designer)
 As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
 
 ---
+
+Module Six Project Log - Team Reflection
+
+Individual Contribution (Jeff - Programmer)
+As the programmer for Team Green, I developed the core gameplay systems, including player movement, shooting mechanics, enemy AI, projectiles, and pickups such as health, speed, and ammo. I also ensured these systems were integrated with the UI, including health, ammo tracking, and the minimap.
+Additionally, I contributed to testing and debugging by fixing gameplay issues and improving overall functionality. I worked using GitHub branches and collaborated with the team to merge changes and maintain a stable build.
