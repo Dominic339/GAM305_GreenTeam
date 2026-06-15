@@ -396,6 +396,7 @@ We used previous evaluations in this stage by focusing on feedback related to pl
 If we could improve the collaboration and development process, we would do more check-ins during the week and test features together more often instead of waiting until later stages. This would help catch problems earlier and make it easier to combine everyone’s work.
 
 One tool or technique that was not as helpful during development was waiting too long to combine major updates into the project. While GitHub helped keep work organized, combining larger changes later in development made testing and fixing issues take more time. Breaking work into smaller updates and testing more often would make development smoother moving forward.
+
 ---
 
 Individual Contribution (Jeff - Programmer)
