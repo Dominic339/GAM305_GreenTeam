@@ -369,8 +369,9 @@ Individual Contribution (Nathan Lively - World Builder) Organized outliner into 
 
 ---
 
-**Individual Contribution (Matthew Clem - Artist)**
+Individual Contribution (Matthew Clem - Artist)
 For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+
 ---
 
 Individual Contribution (Dalton Daugherty - UI/UX)
@@ -382,9 +383,35 @@ Individual Contribution (Dominic Collins – Team Lead / Level Designer)
 As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
 
 ---
-
 Module Six Project Log - Team Reflection
+
+From an artist’s standpoint, our team felt that one thing that went well compared to the last stage evaluation was improving the overall visual quality of the game. During this stage, we continued replacing placeholder visuals, improving materials and lighting, updating the environment, and adding UI and menu elements that made the game feel more complete. Compared to earlier stages, the project looked more polished and closer to the visual direction our team planned at the beginning.
+
+At the same time, there were some parts of the plan that did not go as well. One challenge was making visual improvements while also finishing gameplay systems and preparing for final submission. Since different parts of the project depended on each other, some updates took longer than expected and needed extra testing before they worked correctly together.
+
+We used previous evaluations in this stage by focusing on feedback related to player experience and presentation. Based on earlier feedback, we continued improving visual quality, adding clearer game states such as menus and end conditions, improving level presentation, and making the game feel more complete overall.
+
+If we could improve the collaboration and development process, we would do more check-ins during the week and test features together more often instead of waiting until later stages. This would help catch problems earlier and make it easier to combine everyone’s work.
+
+One tool or technique that was not as helpful during development was waiting too long to combine major updates into the project. While GitHub helped keep work organized, combining larger changes later in development made testing and fixing issues take more time. Breaking work into smaller updates and testing more often would make development smoother moving forward.
+
+---
 
 Individual Contribution (Jeff - Programmer)
 As the programmer for Team Green, I developed the core gameplay systems, including player movement, shooting mechanics, enemy AI, projectiles, and pickups such as health, speed, and ammo. I also ensured these systems were integrated with the UI, including health, ammo tracking, and the minimap.
 Additionally, I contributed to testing and debugging by fixing gameplay issues and improving overall functionality. I worked using GitHub branches and collaborated with the team to merge changes and maintain a stable build.
+
+---
+
+Individual Contribution (Matthew Clem – Artist)
+For this final stage of development, I mostly worked on improving the overall visuals of the game and making the level feel more complete. I added crates and barrels throughout parts of the level to help fill empty spaces and make the environment feel more detailed. I also updated materials on walls and continued improving the overall look of the environment so it matched the dark sci-fi style our team was going for. I added lights to walls and adjusted lighting in different areas to improve visibility and help make the level feel more finished. I also worked on improving the appearance of AI enemies so they fit better with the environment and looked more polished in gameplay. Overall, my contributions during this stage focused on visual polish, environment improvements, lighting updates, improving enemy visuals, and helping move the project toward the final release.
+
+---
+
+Individual Contribution (Nathan Lively)
+Implemented various tweaks to the environment, aurora, and various rock/structure formations.
+---
+Individual Contribution (Dominic Collins – Team Lead / Level Designer)
+For this final stage of development, I worked as the team lead and helped coordinate the project so everyone’s work could come together for the final build. I helped manage GitHub branches, pull requests, LFS issues, and merging problems so the team could access the correct version of the project. I also worked on the main playable level by improving map flow, adjusting difficulty, fixing the start menu transition into gameplay, and setting up the win condition through the level trigger. Along with that, I tested the project, checked team updates, helped troubleshoot issues with packaging and broken assets, and made sure the final build was playable. Overall, my contributions focused on team coordination, level design, testing, GitHub support, gameplay flow, and preparing the project for final submission.
+
+---
