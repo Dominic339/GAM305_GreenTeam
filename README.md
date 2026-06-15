@@ -384,7 +384,24 @@ As team lead and level designer for Team Green, I helped coordinate communicatio
 ---
 
 Module Six Project Log - Team Reflection
+---
+Module Six Project Log - Team Reflection
+
+From an artist’s standpoint, our team felt that one thing that went well compared to the last stage evaluation was improving the overall visual quality of the game. During this stage, we continued replacing placeholder visuals, improving materials and lighting, updating the environment, and adding UI and menu elements that made the game feel more complete. Compared to earlier stages, the project looked more polished and closer to the visual direction our team planned at the beginning.
+
+At the same time, there were some parts of the plan that did not go as well. One challenge was making visual improvements while also finishing gameplay systems and preparing for final submission. Since different parts of the project depended on each other, some updates took longer than expected and needed extra testing before they worked correctly together.
+
+We used previous evaluations in this stage by focusing on feedback related to player experience and presentation. Based on earlier feedback, we continued improving visual quality, adding clearer game states such as menus and end conditions, improving level presentation, and making the game feel more complete overall.
+
+If we could improve the collaboration and development process, we would do more check-ins during the week and test features together more often instead of waiting until later stages. This would help catch problems earlier and make it easier to combine everyone’s work.
+
+One tool or technique that was not as helpful during development was waiting too long to combine major updates into the project. While GitHub helped keep work organized, combining larger changes later in development made testing and fixing issues take more time. Breaking work into smaller updates and testing more often would make development smoother moving forward.
+---
 
 Individual Contribution (Jeff - Programmer)
 As the programmer for Team Green, I developed the core gameplay systems, including player movement, shooting mechanics, enemy AI, projectiles, and pickups such as health, speed, and ammo. I also ensured these systems were integrated with the UI, including health, ammo tracking, and the minimap.
 Additionally, I contributed to testing and debugging by fixing gameplay issues and improving overall functionality. I worked using GitHub branches and collaborated with the team to merge changes and maintain a stable build.
+---
+Individual Contribution (Matthew Clem – Artist)
+For this final stage of development, I mostly worked on improving the overall visuals of the game and making the level feel more complete. I added crates and barrels throughout parts of the level to help fill empty spaces and make the environment feel more detailed. I also updated materials on walls and continued improving the overall look of the environment so it matched the dark sci-fi style our team was going for. I added lights to walls and adjusted lighting in different areas to improve visibility and help make the level feel more finished. I also worked on improving the appearance of AI enemies so they fit better with the environment and looked more polished in gameplay. Overall, my contributions during this stage focused on visual polish, environment improvements, lighting updates, improving enemy visuals, and helping move the project toward the final release.
+---
