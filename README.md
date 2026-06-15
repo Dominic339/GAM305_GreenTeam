@@ -401,7 +401,10 @@ One tool or technique that was not as helpful during development was waiting too
 Individual Contribution (Jeff - Programmer)
 As the programmer for Team Green, I developed the core gameplay systems, including player movement, shooting mechanics, enemy AI, projectiles, and pickups such as health, speed, and ammo. I also ensured these systems were integrated with the UI, including health, ammo tracking, and the minimap.
 Additionally, I contributed to testing and debugging by fixing gameplay issues and improving overall functionality. I worked using GitHub branches and collaborated with the team to merge changes and maintain a stable build.
+
 ---
+
 Individual Contribution (Matthew Clem – Artist)
 For this final stage of development, I mostly worked on improving the overall visuals of the game and making the level feel more complete. I added crates and barrels throughout parts of the level to help fill empty spaces and make the environment feel more detailed. I also updated materials on walls and continued improving the overall look of the environment so it matched the dark sci-fi style our team was going for. I added lights to walls and adjusted lighting in different areas to improve visibility and help make the level feel more finished. I also worked on improving the appearance of AI enemies so they fit better with the environment and looked more polished in gameplay. Overall, my contributions during this stage focused on visual polish, environment improvements, lighting updates, improving enemy visuals, and helping move the project toward the final release.
+
 ---
