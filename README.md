@@ -408,6 +408,9 @@ For this final stage of development, I mostly worked on improving the overall vi
 
 ---
 
+Individual Contribution (Nathan Lively)
+Implemented various tweaks to the environment, aurora, and various rock/structure formations.
+---
 Individual Contribution (Dominic Collins – Team Lead / Level Designer)
 For this final stage of development, I worked as the team lead and helped coordinate the project so everyone’s work could come together for the final build. I helped manage GitHub branches, pull requests, LFS issues, and merging problems so the team could access the correct version of the project. I also worked on the main playable level by improving map flow, adjusting difficulty, fixing the start menu transition into gameplay, and setting up the win condition through the level trigger. Along with that, I tested the project, checked team updates, helped troubleshoot issues with packaging and broken assets, and made sure the final build was playable. Overall, my contributions focused on team coordination, level design, testing, GitHub support, gameplay flow, and preparing the project for final submission.
 
