@@ -369,8 +369,9 @@ Individual Contribution (Nathan Lively - World Builder) Organized outliner into 
 
 ---
 
-**Individual Contribution (Matthew Clem - Artist)**
+Individual Contribution (Matthew Clem - Artist)
 For this stage of development, most of my work focused on improving the overall look and feel of the level. I updated wall materials, worked on environment details, and continued making visual changes so the level felt more complete and matched the style our team was going for. I also spent time improving enemy visuals and testing different lighting and material ideas to make the enemies stand out more in the environment. I also worked through some issues with saved changes and branches during development. I was able to recover my level work, organize my files correctly, and make sure my updates were saved and pushed so they could still be used for the Beta version later on. Overall, my contributions this week focused on visual polish, environment improvements, enemy updates, and helping move the project closer to the Beta stage and final release.
+
 ---
 
 Individual Contribution (Dalton Daugherty - UI/UX)
@@ -381,9 +382,6 @@ Implemented a Main Menu, Credits, Win/Game Over screen. Ensured that each one ha
 Individual Contribution (Dominic Collins – Team Lead / Level Designer)
 As team lead and level designer for Team Green, I helped coordinate communication, branch workflow, and project direction. I guided teammates on GitHub usage, pull requests, merging, and keeping work organized across branches. I also worked on the main playable level by adding structures, lighting, doorway markers, win area placement, and areas for pickups/enemy encounters. I helped test the project, identify issues, and coordinate packaging so the team could submit a playable Beta build.
 
----
-
-Module Six Project Log - Team Reflection
 ---
 Module Six Project Log - Team Reflection
 
